@@ -1,3 +1,3 @@
 # AvaloniaTetris
-A Tetris game written with Avalonia
+A Tetris like game intended as Avalonia playground
 
